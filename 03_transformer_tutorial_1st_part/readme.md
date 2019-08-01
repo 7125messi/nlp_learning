@@ -4,4 +4,4 @@
 链接:`https://pan.baidu.com/s/1zqWwvCHQC_u-80HUsTOX9A`  密码:`y2r6`   
 
 之后把下载的模型放入`bert_state_dict`文件夹里,    
-之后用`pycharm`打开项目, 运行`attention_visualization.py`进行**attention矩阵可视化**  
+之后用`pycharm`打开项目, 运行`attention_visualization.py`进行**attention矩阵可视化**
